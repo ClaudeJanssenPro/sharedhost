@@ -16,9 +16,9 @@
 ## Choisir son hébergeur
 - évaluer ses besoins (Morgan, Jacques) 
 - mes critères : SAV, facilité, prix et moyen de paiement, fiabilité (uptime & sauvegarde)
-- la formule gratuite [Msanweb]https://mosanweb.com/sitegratuit.php)
+- la formule gratuite [Msanweb](https://mosanweb.com/sitegratuit.php)
 
 ## cPanel
-- 
+- Installation WordPress, Laravel, Vue.js
 - File Manager vs FTP (FileZilla, créer des comptes FTP)
 
